@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+header{
+   background-color: blue;
+   text-decoration: none;
+}
+nav a {
+    color:white;
+}
+header a {
+    text-decoration: none;
+    margin: 10px;
+    padding: 3px;
+    color:aqua;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    background-color: white;
+}
+h1 {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+footer p {
+    background-color: gold;
+    border: 5px solid gold; 
+}
+main nav {
+    background-color: olive;
+    border:2px green;
+    marginn:15px;
+    text-align: center;
+}
+p img {
+   background-color: aquamarine;
+}
+.tovars{
+    border:3px solid navy;
+    border-radius: 15px;
+    padding:10px;
+    margin:10px;
+}
+main h2 {
+    color:blue;
+    text-align: center;
+}
